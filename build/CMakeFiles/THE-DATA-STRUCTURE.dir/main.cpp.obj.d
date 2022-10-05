@@ -1,5 +1,11 @@
-CMakeFiles/main.dir/main.cpp.obj: C:\Users\zheng\Desktop\C++\main.cpp \
- D:/mingw64/x86_64-w64-mingw32/include/stdio.h \
+CMakeFiles/THE-DATA-STRUCTURE.dir/main.cpp.obj: \
+ C:/Users/zheng/Desktop/The-data-structure/main.cpp \
+ D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/stdlib.h \
+ D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cstdlib \
+ D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+ D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+ D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+ D:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
  D:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
  D:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
  D:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
@@ -7,23 +13,18 @@ CMakeFiles/main.dir/main.cpp.obj: C:\Users\zheng\Desktop\C++\main.cpp \
  D:/mingw64/x86_64-w64-mingw32/include/vadefs.h \
  D:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_directx.h \
  D:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
- D:/mingw64/x86_64-w64-mingw32/include/_mingw_print_push.h \
- D:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
- D:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
- D:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
- D:/mingw64/x86_64-w64-mingw32/include/_mingw_print_pop.h \
- D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/stdlib.h \
- D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cstdlib \
- D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
- D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
- D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
- D:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
  D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/limits.h \
  D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/syslimits.h \
  D:/mingw64/x86_64-w64-mingw32/include/limits.h \
  D:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
  D:/mingw64/x86_64-w64-mingw32/include/malloc.h \
  D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/std_abs.h \
+ D:/mingw64/x86_64-w64-mingw32/include/stdio.h \
+ D:/mingw64/x86_64-w64-mingw32/include/_mingw_print_push.h \
+ D:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ D:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
+ D:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+ D:/mingw64/x86_64-w64-mingw32/include/_mingw_print_pop.h \
  D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream \
  D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream \
  D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios \
